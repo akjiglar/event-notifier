@@ -1,0 +1,30 @@
+h1 {
+  font-size: 48px;
+  font-style: bold;
+  font-family: 'William', serif;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 20px;
+  font-weight: normal;
+  /*color: white;*/
+}
+
+h2 {
+  font-size: 24px;
+  font-family: 'Inter', sans-serif;
+  margin-top: 0;
+  margin-bottom: 24px;
+  /*color: white;*/
+}
+
+img {
+  width: 1340px;
+  margin-bottom: 50px;
+}
+div {
+  background-color: mediumaquamarine;
+  width: 1330px;
+  height: 500px;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}

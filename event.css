@@ -1,0 +1,57 @@
+h1 {
+  font-size: 48px;
+  font-style: bold;
+  font-family: 'William', serif;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-top: 20px;
+  font-weight: normal;
+  /*color: white;*/
+}
+
+h2 {
+  font-size: 24px;
+  font-family: 'Inter', sans-serif;
+  margin-top: 0;
+  margin-bottom: 24px;
+  /*color: white;*/
+}
+
+img {
+  width: 1340px;
+  margin-bottom: 50px;
+}
+
+p {
+  font-family: 'Inter', sans-serif;
+}
+div {
+  background-color: mediumaquamarine;
+  width: 1330px;
+  height: 100px;
+  text-align: center;
+}
+button {
+  /* button size */
+  width: 200px;
+  height: 60px;
+  /* button border */
+  border: 2px solid black;
+  /* blue background */
+  background-color: blue;
+  /* removes the button backlight when clicked */
+  outline: none;
+  /* smooth transitions on hover */
+  transition: all .4s ease;
+  /* font settings */
+  font-family: 'Arial Narrow', sans-serif;
+  font-size: 30px;
+}
+
+/* styles for button on hover */
+button:hover {
+  /* type of cursor on hover */
+  cursor: pointer;
+  /* crimson shadow */
+  box-shadow: 4px 4px crimson;
+}
